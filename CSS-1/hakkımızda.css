@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(235, 42, 64);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+.aciklama {
+    margin-left: 5px;
+    margin-right: 10%;
+}
+
+.yazi p {
+    margin-top: 20;
+    margin-bottom: 10px;
+}
+
+.baslik h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

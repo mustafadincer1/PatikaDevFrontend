@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(235, 42, 64);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link a {
+    margin-right: 20px;
+}
+
+.photo {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.product .num {
+    padding-right: 90px;
+    padding-left: 0;
+}
